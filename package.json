@@ -1,0 +1,24 @@
+{
+  "name": "Electron_prac",
+  "version": "1.0.0",
+  "description": "Electron app test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fukuda-B/Electron_prac.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fukuda-B/Electron_prac/issues"
+  },
+  "homepage": "https://github.com/Fukuda-B/Electron_prac#readme",
+  "devDependencies": {
+    "electron": "^12.0.5",
+    "electron-packager": "^15.2.0"
+  }
+}
